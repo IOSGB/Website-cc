@@ -20,7 +20,7 @@
 
 #banner {
     width: 100%;
-    background-image :url("assets/banner.png");
+    background-image :url("assets/ADDC7BA5-AB71-445B-8C39-D0A7F3342888.JPEG");
     height: 463px;
     display: flex;
     padding:0px 133px;
@@ -128,8 +128,8 @@
 }
 
 #list-products .item {
-    width: 290px;
-    height: 374px;
+    width: 300px;
+    height: 400px;
     background:#362f2f;
     border-radius: 10px;
     margin-bottom: 50px;
@@ -157,7 +157,7 @@
 
 #list-products .item .desc {
     text-align: center;
-    color:#626a67;
+    color:#ffffff;
 		font-size: 13px;
 }
 
@@ -165,7 +165,7 @@
     text-align: center;
     color:#f42424;
     font-weight: bold;
-    margin-top:20px;
+    margin-top:10px;
 }
 
 
@@ -361,4 +361,12 @@
 
 .tutor{
 	display: block;
+}
+
+.tien {
+	text-align: center;
+    color: red;
+    font-weight: bold;
+    margin-top: 0px;
+	}
 }
